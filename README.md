@@ -2,11 +2,10 @@
 
 Welcome to my professional and academic portfolio
 
-I am an Information Technology student with a strong interest in
-networking, system design, and ethical computing. This portfolio
-demonstrates my technical competence, problem-solving ability,
-ethical awareness, and reflections on how faith shapes my
-professional conduct.
+Welcome to my professional portfolio. This collection demonstrates my growth as a System Administrator and Technical Support professional, 
+highlighting both technical competence and ethical, faith-driven decision-making.
+Each project reflects not only my skills in troubleshooting, coding, and system management but also how my faith guides my professional conduct.
+My goal is to show how integrity, perseverance, and stewardship influence my approach to technology, enabling me to serve others responsibly and ethically.
 
 
 ## Portfolio Sections
